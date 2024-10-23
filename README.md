@@ -74,6 +74,11 @@
 <a href="https://colab.research.google.com/" target="_blank"><img src="https://github.com/miteshgupta07/miteshgupta07/assets/111682782/3aef1081-df26-49b5-9c1b-2736a5d3cffc" alt="Colab" width="70"></a>
 </p>
 
+<h3 align="left">• Version Control</h3>
+<p align="left">
+&nbsp;&nbsp;&nbsp;<a href="https://docs.github.com/en" target="_blank"><img src="https://logos-world.net/wp-content/uploads/2020/11/GitHub-Logo.png" alt="GitHub" width="80" height="50">
+</p>
+
 <br></br>
 
 
